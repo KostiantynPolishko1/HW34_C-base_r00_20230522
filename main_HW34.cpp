@@ -6,7 +6,8 @@ int main()
 	setlocale(LC_ALL, "Russian");
 	system("chcp_1251");
 
-	cout << "ïðîâåðêà âûâîäà êèðèëëèöû" << endl;
+	cout << "Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ° Ð²Ñ‹Ð²Ð¾Ð´Ð° ÐºÐ¸Ñ€Ð¸Ð»Ð»Ð¸Ñ†Ñ‹" << endl;
+	cout << "ÐºÐ¾Ð´Ð¸Ñ€Ð¾Ð²ÐºÐ° UTF-8" << endl;
 
 	return 0;
 }
