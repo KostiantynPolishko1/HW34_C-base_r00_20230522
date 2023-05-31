@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="displayBoard.cpp" />
     <ClCompile Include="generateGrid.cpp" />
     <ClCompile Include="main_HW34.cpp" />
   </ItemGroup>

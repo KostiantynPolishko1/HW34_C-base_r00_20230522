@@ -14,5 +14,6 @@ struct SudokuGrid
 #define HEADER_H
 
 void generateGrid(SudokuGrid& grid);
+void displayBoard(const SudokuGrid& grid);
 
 #endif
