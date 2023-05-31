@@ -17,9 +17,8 @@ void displayBoard(const SudokuGrid& grid)
         for (int j = 0; j < SIZE; ++j)
         {
             if (j % 3 == 0 && j != 0)
-            {
                 cout << " | ";
-            }
+
             cout << " " << grid.cells[i][j] << " ";
         }
         cout << endl;

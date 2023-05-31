@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="displayBoard.cpp" />
     <ClCompile Include="generateGrid.cpp" />
+    <ClCompile Include="isValidValue.cpp" />
     <ClCompile Include="main_HW34.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -15,5 +15,6 @@ struct SudokuGrid
 
 void generateGrid(SudokuGrid& grid);
 void displayBoard(const SudokuGrid& grid);
+bool isValidValue(const SudokuGrid& grid, int row, int col, int value);
 
 #endif
